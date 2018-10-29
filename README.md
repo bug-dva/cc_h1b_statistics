@@ -42,7 +42,7 @@ In this step, for both top 10 occupations and top 10 states, one helper function
 1. Put you input file in the input folder, name it as "h1b_input.csv"
 2. Run below command to start the process  
 ```
-$ ./run.sh
+./run.sh
 ```
 3. The results should be in the output folder:
   * top_10_occupations.txt - the file containing the information of top 10 occupations for certified visa applications
